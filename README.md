@@ -8,7 +8,7 @@ The purpose of this analysis is to confirm the hypothesis that the math and read
 
 ## School District Results:
 District Summary Before 9th graders from THS removed:
-![District Analysis Before 9th Graders Removed](Resources/District_Analysis_Before.PNG)
+![District Analysis Before 9th Graders Removed](Resources/D_Analysis_Before.PNG)
 
 District Summary After 9th graders from THS removed:
 ![District Analysis Before 9th Graders Removed](Resources/District_Analysis.PNG)
