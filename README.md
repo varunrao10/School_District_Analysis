@@ -7,5 +7,12 @@
 The purpose of this analysis is to confirm the hypothesis that the math and reading scores of the 9th graders at thomas high school are dragging down the performance of the school.
 
 ## School District Results:
+District Summary Before 9th graders from THS removed:
+![District Analysis Before 9th Graders Removed](Resources/District_Analysis_Before.PNG)
+
+District Summary After 9th graders from THS removed:
+![District Analysis Before 9th Graders Removed](Resources/District_Analysis_After.PNG)
+
+
 
 ## School District Summary:
