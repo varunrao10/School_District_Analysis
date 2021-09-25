@@ -11,7 +11,7 @@ District Summary Before 9th graders from THS removed:
 ![District Analysis Before 9th Graders Removed](Resources/District_Analysis_Before.PNG)
 
 District Summary After 9th graders from THS removed:
-![District Analysis Before 9th Graders Removed](Resources/District_Analysis_After.PNG)
+![District Analysis Before 9th Graders Removed](Resources/District_Analysis.PNG)
 
 
 
