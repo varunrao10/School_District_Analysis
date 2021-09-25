@@ -21,7 +21,7 @@ The purpose of this analysis is to confirm the hypothesis that the math and read
 **School Summary After 9th graders from THS removed:**
 ![School Summary After 9th Graders Removed](Resources/School_Summary_After.PNG)
 
-- 
+- Thomas High School went from 8th place in % Overall Passing to 2nd place in % Overall Passing. 
 
 
 
