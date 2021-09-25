@@ -13,13 +13,15 @@ The purpose of this analysis is to confirm the hypothesis that the math and read
 **District Summary After 9th graders from THS removed:**
 ![District Analysis Before 9th Graders Removed](Resources/District_Analysis.PNG)
 
-- From these results the 
+- After removing the 9th graders from Thomas High School the Average Math Score, %Passing Math, % Passing Reading and % Overall Passing went down.
 
 **School Summary Before 9th graders from THS removed:**
 ![School Summary Before 9th Graders Removed](Resources/School_Summary_Before.PNG)
 
 **School Summary After 9th graders from THS removed:**
 ![School Summary After 9th Graders Removed](Resources/School_Summary_After.PNG)
+
+- 
 
 
 
